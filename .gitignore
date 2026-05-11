@@ -32,3 +32,6 @@ __pycache__/
 # SISTEMA
 .DS_Store
 Thumbs.db
+
+~$*.docx
+*.tmp
